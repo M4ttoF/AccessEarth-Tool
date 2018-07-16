@@ -1384,7 +1384,6 @@
  Bear`s Passage	 Ontario
  Beardmore	 Ontario
  Bearskin Lake	 Ontario
- Bearskin Lake First Nation	 Ontario
  Beaverton	 Ontario
  Beeton	 Ontario
  Belle River	 Ontario
@@ -1529,7 +1528,6 @@
  Deux-Rivieres	 Ontario
  Devlin	 Ontario
  Dokis	 Ontario
- Dokis First Nation	 Ontario
  Dorchester	 Ontario
  Dorion	 Ontario
  Dorset	 Ontario
@@ -1601,7 +1599,6 @@
  Fort Frances	 Ontario
  Fort Hope	 Ontario
  Fort Severn	 Ontario
- Fort Severn First Nation	 Ontario
  Fort William First Nation	 Ontario
  Foxboro	 Ontario
  Foymount	 Ontario
@@ -1636,13 +1633,11 @@
  Grand Valley	 Ontario
  Granton	 Ontario
  Grassy Narrows	 Ontario
- Grassy Narrows First Nation	 Ontario
  Gravenhurst	 Ontario
  Greensville	 Ontario
  Grimsby	 Ontario
  Guelph	 Ontario
  Gull Bay	 Ontario
- Gull Bay First Nation	 Ontario
  Hagersville	 Ontario
  Haileybury	 Ontario
  Haldimand	 Ontario
@@ -1713,7 +1708,6 @@
  Kincardine	 Ontario
  King City	 Ontario
  Kingfisher Lake	 Ontario
- Kingfisher Lake First Nation	 Ontario
  Kingston	 Ontario
  Kingsville	 Ontario
  Kinmount	 Ontario
@@ -1768,7 +1762,6 @@
  Madoc	 Ontario
  Madsen	 Ontario
  Magnetawan	 Ontario
- Magnetawan First Nation	 Ontario
  Maidstone	 Ontario
  Maitland	 Ontario
  Mallorytown	 Ontario
@@ -1832,7 +1825,6 @@
  Muskoka	 Ontario
  Muskoka Falls	 Ontario
  Muskrat Dam	 Ontario
- Muskrat Dam First Nation	 Ontario
  Nairn	 Ontario
  Naiscoutaing First Nation	 Ontario
  Nakina	 Ontario
@@ -1986,7 +1978,6 @@
  Sandwich	 Ontario
  Sandy Cove Acres	 Ontario
  Sandy Lake	 Ontario
- Sandy Lake First Nation	 Ontario
  Sapawe	 Ontario
  Sarnia	 Ontario
  Sauble Beach	 Ontario
@@ -2077,7 +2068,6 @@
  The Eabametoong (Fort Hope) Fi	 Ontario
  Thedford	 Ontario
  Thessalon	 Ontario
- Thessalon First Nation	 Ontario
  Thornbury	 Ontario
  Thorndale	 Ontario
  Thorne	 Ontario
@@ -2149,7 +2139,6 @@
  White River	 Ontario
  Whitefish	 Ontario
  Whitefish Falls	 Ontario
- Whitefish River First Nation	 Ontario
  Whitney	 Ontario
  Wiarton	 Ontario
  Wikwemikong	 Ontario
@@ -2215,7 +2204,6 @@
  Arundel	 Quebec
  Asbestos	 Quebec
  Ascot	 Quebec
- Ascot Corner	 Quebec
  Ashuapmushuan	 Quebec
  Aston-Jonction	 Quebec
  Ayer`s Cliff	 Quebec
@@ -2810,7 +2798,6 @@
  St-Blaise-sur-Richelieu	 Quebec
  St-Boniface-de-Shawinigan	 Quebec
  St-Bruno	 Quebec
- St-Bruno-de-Montarville	 Quebec
  St-Calixte-de-Kilkenny	 Quebec
  St-Casimir	 Quebec
  St-Celestin	 Quebec
@@ -2835,15 +2822,7 @@
  Ste. Monique de Nicolet	 Quebec
  Ste-Adele	 Quebec
  Ste-Agathe	 Quebec
- Ste-Agathe-des-Monts	 Quebec
- Ste-Agathe-Sud	 Quebec
  Ste-Anne-de-Beaupre	 Quebec
- Ste-Anne-de-Bellevue	 Quebec
- Ste-Anne-de-la-Perade	 Quebec
- Ste-Anne-de-Portneuf	 Quebec
- Ste-Anne-des-Monts	 Quebec
- Ste-Anne-des-Plaines	 Quebec
- Ste-Anne-du-Lac	 Quebec
  Ste-Blandine	 Quebec
  Ste-Brigitte-de-Laval	 Quebec
  Ste-Catherine	 Quebec
@@ -2857,7 +2836,6 @@
  Ste-Henedine	 Quebec
  Ste-Jeanne-d`Arc	 Quebec
  Ste-Julie	 Quebec
- Ste-Julie-de-Vercheres	 Quebec
  Ste-Julienne	 Quebec
  Ste-Justine	 Quebec
  St-Eleuthere	 Quebec
@@ -2865,9 +2843,7 @@
  Ste-Madeleine	 Quebec
  Ste-Marguerite	 Quebec
  Ste-Marie-de-Beauce	 Quebec
- Ste-Marie-de-Blandford	 Quebec
  Ste-Marthe	 Quebec
- Ste-Marthe-sur-le-Lac	 Quebec
  St-Emile	 Quebec
  St-Emile-de-Suffolk	 Quebec
  Ste-Perpetue	 Quebec
@@ -2876,7 +2852,6 @@
  St-Ephrem-de-Tring	 Quebec
  Ste-Rosalie	 Quebec
  Ste-Rose	 Quebec
- Ste-Rose-de-Watford	 Quebec
  Ste-Rose-du-Nord	 Quebec
  Ste-Sophie-de-Levrard	 Quebec
  Ste-Thecle	 Quebec
@@ -2887,18 +2862,13 @@
  Ste-Victoire	 Quebec
  St-Fabien-de-Panet	 Quebec
  St-Felicien	 Quebec
- St-Felix-de-Kingsey	 Quebec
- St-Felix-de-Valois	 Quebec
  St-Fidele-de-Mont-Murray	 Quebec
  St-Flavien	 Quebec
  St-Francois-du-Lac	 Quebec
  St-Fulgence	 Quebec
  St-Gabriel	 Quebec
- St-Gabriel-de-Brandon	 Quebec
  St-Gedeon	 Quebec
  St-Georges	 Quebec
- St-Georges-de-Beauce	 Quebec
- St-Georges-de-Cacouna	 Quebec
  St-Gerard	 Quebec
  St-Germain-de-Grantham	 Quebec
  St-Gregoire-de-Greenlay	 Quebec
@@ -2906,27 +2876,17 @@
  St-Hilarion	 Quebec
  St-Hippolyte	 Quebec
  St-Honore-de-Beauce	 Quebec
- St-Honore-de-Chicoutimi	 Quebec
  St-Hugues	 Quebec
  St-Irenee	 Quebec
  St-Jacques	 Quebec
  St-Jean-Chrysostome	 Quebec
- St-Jean-de-Dieu	 Quebec
- St-Jean-de-Matha	 Quebec
- St-Jean-Port-Joli	 Quebec
- St-Jean-sur-Richelieu	 Quebec
  St-Jerome	 Quebec
  St-Joseph-de-Beauce	 Quebec
- St-Joseph-de-la-Rive	 Quebec
- St-Joseph-de-Sorel	 Quebec
  St-Jovite	 Quebec
  St-Jude	 Quebec
  St-Just-de-Bretenieres	 Quebec
  St-Lambert	 Quebec
- St-Lambert-de-Lauzon	 Quebec
  St-Laurent	 Quebec
- St-Leonard	 Quebec
- St-Leonard-d`Aston	 Quebec
  St-Leon-le-Grand	 Quebec
  St-Liboire	 Quebec
  St-Lin	 Quebec
@@ -2969,20 +2929,15 @@
  St-Remi	 Quebec
  St-Rene-de-Matane	 Quebec
  St-Roch-de-Mekinac	 Quebec
- St-Roch-des-Aulnaies	 Quebec
  St-Romuald	 Quebec
  St-Sauveur	 Quebec
- St-Sauveur-des-Monts	 Quebec
  St-Simeon	 Quebec
- St-Simon-de-Bagot	 Quebec
- St-Simon-de-Rimouski	 Quebec
  St-Sylvere	 Quebec
  St-Sylvestre	 Quebec
  St-Theophile	 Quebec
  St-Thomas-d`Aquin	 Quebec
  St-Timothee	 Quebec
  St-Tite	 Quebec
- St-Tite-des-Caps	 Quebec
  St-Ubalde	 Quebec
  Stukely-Sud	 Quebec
  St-Ulric	 Quebec
@@ -3023,8 +2978,6 @@
  Vanier	 Quebec
  Varennes	 Quebec
  Vaudreuil	 Quebec
- Vaudreuil Dorion	 Quebec
- Vaudreuil-sur-le-Lac	 Quebec
  Venise-en-Quebec	 Quebec
  Vercheres	 Quebec
  Verdun	 Quebec
@@ -3039,7 +2992,6 @@
  Waterloo	 Quebec
  Waterville	 Quebec
  Weedon	 Quebec
- Weedon Centre	 Quebec
  Wemindji	 Quebec
  Wendover	 Quebec
  West Brome	 Quebec
