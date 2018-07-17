@@ -1,0 +1,507 @@
+Field,Sports & Recreation
+Convenience Store,Association & Orginization,Shopping,Resturant
+Travel,Transportation
+Café,Resturant
+Residential,Accomodation
+Asian,Resturant
+Concert Hall,Arts & Entertainment
+Financial / Legal,Financial,Association & Orginization
+Gas Station,Transportaion,Shopping,Resturant
+Shop,Shopping
+Boat / Ferry,Transportation
+Event Space,Arts & Entertainment
+Farm,Parks
+Hotel,Accomodation
+Office,Association & Orginization
+Doctor's Office,Healthcare
+Hockey,Arts & Entertainment
+Optical,Healthcare
+Building,Accomodation
+Grocery Store,Shopping
+Electronics,Shopping
+Automotive,Transportation
+Other Repair,Association & Orginization
+Skating Rink,Arts & Entertainment
+Arts & Crafts,Arts & Entertainment
+Construction,Association & Orginization
+Lounge,Arts & Entertainment
+Airport Service,Transportation
+Food Court,Resturant
+Playground,Arts & Entertainment,Park
+Terminal,Transportaion
+Gate,Transportation
+Veterinarians,Healthcare
+City,Public Service
+Hardware,Shopping
+Chinese,Resturant
+Salon / Barbershop,Association & Orginization
+Rock Climbing,Arts & Entertainment
+Home Services,Association & Orginization
+Medical,Healthcare
+Brewery,Shopping,Association & Orginization
+Laboratory,Association & Orginization
+Furniture / Home,Shopping
+Business Services,Financial,Association & Orginization
+Baby Store,Shopping
+Recycling,Public Service
+Smoke Shop,Shopping
+Tech Startup,Association & Orginization
+Lawyer,Financial,Association & Orginization
+Insurance Office,Financial,Association & Orginization
+Academic Building,Education
+Art Studio,Arts & Entertainment
+Italian,Resturant
+Apparel,Shopping
+Food Truck,Resturant
+Conference room,Association & Orginization
+School,Education
+Technology,Association & Orginization,Shopping
+Pharmacy,Healthcare
+Government,Public Service
+Kids Store,Shopping
+Shops,Shopping
+Engineering,Association & Orginization
+Trail,Parks
+Police Station,Public Service
+Cafeteria,Resturant
+Classroom,Education
+Nightclub,Arts & Entertainment
+Design,Association & Orginization
+Entertainment,Arts & Entertainment
+Advertising Agency,Association & Orginization
+Auto Dealer,Transportation
+Parking,Transportation
+Sports Bar,Arts & Entertainment
+Nail Salon,Shopping
+Middle School,Education
+Hot Spring,Art's & Entertainment
+Meeting Room,Association & Orginization
+Airport,Transportation
+Housing Development,Association & Orginization
+Other Outdoors,Parks
+Gastropub,Resturant
+Restaurant,Resturant
+Golf Course,Sports & Recreation
+Church,Public Service
+Japanese,Resturant
+Bus Station,Transportation
+Pet Store,Shopping
+High School,Education
+Stadium,Sports & Recreation
+New American,Shopping
+Factory,Association & Organization
+Fair,Arts & Entertainment
+Fast Food,Resturant
+American,Shopping
+Cemetery,Public Service
+Mobile Phones,Shopping
+Park,Parks,Sports & Recreation
+Elementary School,Education
+Rental Car,Transportaion
+Video Games,Arts & Entertainment,Sports & Recreation
+Auto Garage,Transportaion
+Distributor,Association & Organization
+Movie Theater,Arts & Entertainment
+Coworking Space,Public Service
+Health & Beauty,Healthcare,Shopping
+Library,Public Service
+Neighborhood,Accomodation
+Real Estate,Accomodation,Association & Organization
+Pizza,Resturant
+Lake,Sports & Recreation
+Cineplex,Arts & Entertainment
+Gym,Sports & Recreation
+Food Service,Resturant
+Voting Booth,Public Service
+Harbor / Marina,Sports & Recreation
+Garden Center,Shopping
+Professional,Association & Organization
+National Park,Parks
+Road,Transportation
+Assisted Living,Healthcaare
+Car Washes,Transportaion
+Breakfast,Resturant
+Gym / Fitness,Sports & Recreation
+Massage Studio,Healthcare
+Nightlife,Arts & Entertainment
+Rental Service,Transportaion
+Pool,Sports & Recreation
+Burgers,Resturant
+Travel Agency,Transportation
+Gift Shop,Shopping
+Beer Garden,Shopping
+Campground,Parks,Sports & Recreation
+Coffee Shop,Resturant
+Gourmet,Resturant
+Ski Area,Sports & Recreation
+Art Gallery,Arts & Entertainment
+Spa,Healthcare
+Tourist Information,Public Service
+Hostel,Accomodation
+Food,Resturant
+Sorority House,Accomodation
+Irish,Resturant
+Ice Cream,Resturant
+Daycare,Association & Organization
+Dentist's Office,Healthcare
+Diner,Resturant
+Butcher,Shopping
+Eye Doctor,Healthcare
+Hospital,Healthcare
+Convention Center,Arts & Entertainment,Sports & Recreation
+Photography Lab,Arts & Entertainment
+Pet Service,Healthcare
+Mall,Shopping,Resturant
+Curling Ice,Sports & Recreation
+Transportation Services,Transportation
+Video Store,Shopping,Arts & Entertainment
+North Indian,Resturant
+Performing Arts,Arts & Entertaintment
+Education,Education
+Zoo,Arts & Entertainment
+Laundry,Public Service
+Sporting Goods,Sports & Recreation,Shopping
+Pub,Resturant
+Track,Sports & Recreation
+Storage,Association & Organization
+Racetrack,Sports & Recreation
+Deli / Bodega,Shopping
+Hookah Bar,Arts & Entertainment
+Fire Station,Public Service
+Moving Target,Public Service
+Roof Deck,Association & Organization
+Business Center,Association & Organization
+Baseball Field,Parks,Sports & Recreation
+Bar,Resturant
+Auditorium,Sports & Recreation,Arts & Entertainment
+Spiritual,Sports & Recreation,Arts & Entertainment
+Liquor Store,Shopping
+Strip Club,Arts & Entertainment
+Whisky Bar,Resturant
+Tattoo,Arts & Entertainment
+Chiropractors,Healthcare
+Theater,Arts & Entertainment
+Music Store,Shopping
+Beach,Parks,Sports & Recreation
+Warehouse,Shopping
+Preserve,Parks
+Music Venue,Arts & Entertainment
+Flower Shop,Shopping
+Dance Studio,Sports & Recreation
+Casino,Arts & Entertainment
+Rest Areas,Sports & Recreation
+Landmark,Public Service
+Tanning Salon,Shopping
+Student Center,Education
+Post Office,Public Service
+Desserts,Resturant
+Trade School,Education
+Bus,Transportation
+Emergency Room,Healthcare
+Farmer's Market,Shopping
+Toys & Games,Shopping
+Vegetarian / Vegan,Resturant
+Office Supplies,Shopping
+Thrift / Vintage,Shopping
+Motel,Accomodation
+River,Parks,Sports & Recreation
+Bike Shop,Shopping,Sports & Recreation
+Theme Park,Arts & Entertainment,Sports & Recreation
+Cosmetics,Shopping
+Forest,Parks,Sports & Recreation
+BBQ,Resturant
+Scenic Lookout,Parks
+B & B,Accomodation
+Filipino,Resturant
+Lodge,Accomodation
+Radio Station,Arts & Entertainment
+Chairlift,Healthcare
+Non-Profit,Public Service
+Women's Store,Shopping
+Steakhouse,Resturant
+Lab,Association & Organization
+Village,Public Service
+Train Station,Public Service, Transportation
+Waterfall,Parks
+Canal Lock,Parks
+Resort,Sports & Recreation,Accomodation
+Sandwiches,Resturant
+Outdoor Supplies,Shopping,Sports & Recreation
+Community Center,Pubic Service
+Historic Site,Public Service
+History Museum,Public Service
+Laundromat,Association & Organization
+Motorcycle Shop,Shopping,Transportation
+Driving School,Public Service,Education
+Men's Store,Shopping
+Antiques,Shopping
+Food & Drink,Resturant
+Indian,Shopping
+Wine Shop,Shopping
+Embassy,Public Service
+Winery,Shopping
+Athletics & Sports,Sports & Recreation,Shopping
+Mexican,Resturant
+Border Crossing,Public Service
+Indie Movies,Shopping
+Stables,Parks
+Boutique,Shopping
+Outdoors & Recreation,Sports & Recreation,Shopping
+City Hall,Public Service
+Bowling Alley,Sports & Recreation
+Department Store,Shopping
+Platform,Accomadation
+Mental Health,Healthcare
+Thai,Resturant
+Drop Zone,Sports & Recreation
+Tailor,Shopping
+IT Services,Shopping
+Bridal,Shopping
+Well,Association & Organization
+Middle Eastern,Resturant
+Administrative Building,Association & Organization
+Soccer Field,Sports & Recreation
+Garden,Parks
+Greek,Resturant
+Mountain,Parks,Sports & Recreation
+Vietnamese,Resturant
+Falafel,Resturant
+Bridge,Public Service
+French,Resturant
+Military Base,Public Service
+Accessories,Shopping
+Cupcakes,Resturant
+Bookstore,Shopping
+Lingerie,Shopping
+Carpet Store,Shopping
+Rock Club,Sports & Recreation
+Jewelry,Shopping
+Cocktail,Resturant
+Board Shop,Shopping
+Funeral Home,Association & Organization
+Comic Shop,Shopping
+Billiards,Sports & Recreation
+Medical Lab,Healthcare
+RV Park,Parks,Sports & Recreation
+Heliport,Sports & Recreation
+German,Resturant
+Health Food Store,Shopping,Healthcare
+Aquarium,Arts & Entertainment
+Arcade,Arts & Entertainment,Sports & Recreation
+Hobbies,Shopping,Sports & Recreation
+Bakery,Resturant
+Bus Stop,Transportation
+Korean,Resturant
+Intersection,Transportation
+Conference,Association & Organization
+Metro,Shopping
+Turkish,Resturant
+Lighting,Shopping
+Vacation Rental,Transportation
+Sushi,Resturant
+Beer Bar,Shopping
+Vineyard,Arts & Entertainment
+Arts,Arts & Entertainment
+Baseball,Sports & Recreation
+Mongolian,Resturant
+Planetarium,Arts and Entertainment
+Seafood,Resturant
+Hotel Bar,Resturant
+Snacks,Shopping,Resturant
+Cruise,Transportation
+Bistro,Resturant
+Credit Union,Financial
+Adult Boutique,Shopping
+Flea Market,Shopping
+Museum,Arts & Entertainment
+Tunnel,Transportation
+Dry Cleaner,Association & Organization
+Speakeasy,Resturant
+Market,Shopping
+Residence Hall,Public Service
+Festival,Arts & Entertainment
+Bike,Sports & Recreation
+Lighthouse,Public Service
+Physical Therapist,Healthcare
+Shoes,Shopping
+Wine Bar,Resturant
+Club,Atrs & Entertainment
+Yoga Studio,Sports & Recreation
+Gluten-free,Resturant
+Bank,Financial
+Shipping Store,Shopping
+Tapas,Resturant
+Tennis Court,Sports & Recreation
+Fishing Spot,Sports & Recreation
+Photo Studio,Arts & Entertainment
+Temple,Public Service
+Apres Ski Bar,Resturant
+Warehouse Store,Assocaition & Organization
+Tour Provider,Transportaion,Arts & Entertainment
+EV Charging,Public Service
+Camera Store,Shopping
+Print Shop,Shopping
+Film Studio,Arts & Entertainment
+Boat Rental,Transportation
+Piers,Public Service
+Comedy Club,Arts & Entertainment
+Ski Chalet,Sports & Recreation
+Medical Supply,Healthcare
+Wings,Resturant
+Pawn Shop,Shopping
+Soccer,Sports & Recreation
+Research Station,Association & Organization
+Acupuncturist,Healthcare
+Gun Shop,Shopping
+Tea Room,Resturant
+Locksmith,Association & Organization
+Moroccan,Resturant
+Recruiting Agency,Association & Organization
+Taxi,Transportation
+Plaza,Shopping
+Port,Sports & Recreation
+Alternative Healer,Healthcare
+Dog Run,Sports & Recreation
+Mattress Store,Shopping
+Industrial Estate,Accomodation
+Comfort Food,Resturant
+Trailer Park,Parks
+Hockey Rink,Sports & Recreation
+Weight Loss Center,Sports & Recreation
+Vape Store,Shopping
+Community College,Education
+Ethiopian,Resturant
+Gymnastics Gym,Sports & Recreation
+Auto Workshop,Transportation
+Paintball Field,Sports & Recreation
+Boxing Gym,Sports & Recreation
+Motorsports Shop,Transportation
+Town,Public Service
+Island,Publice Service
+Martial Arts,Sports & Recreation
+Rafting,Sports & Recreation
+Recreation Center,Sports & Recreation
+Art Museum,Ats & Entertainment
+Hot Dogs,Resturant
+Dive Bar,Resturant
+Beach Bar,Resturant
+Other Event,Arts & Entertainment
+Caribbean,Resturant
+Eastern European,Resturant
+Public Art,Arts & Entertainment
+Toll Plaza,Public Service
+Science,Association & Organization
+Mediterranean,Resturants
+Outlet Mall,Shopping
+Campaign,Public Service
+Supermarket,Shopping
+University,Education
+Discount Store,Shopping
+Bathing Area,Sports & Recreation
+Fishing Store,Sports & Recreation,Shopping
+Hunting Supply,Sports & Recreation,Shopping
+Noodles,Resturant
+Jazz Club,Arts & Entertainment
+Dim Sum,Resturant
+Candy Store,Shopping
+Quad,Accomodation
+Music School,Shopping,Arts & Entertainment
+Event Services,Arts & Entertainment
+Juice Bar,Resturant
+Capitol Building,Assocaition & Organization
+Organic Grocery,Shopping
+Sculpture,Arts & Entertainment
+Cave,Sports & Recreation
+Indonesian,Resturant
+Souvenir Shop,Shopping
+Bath House,Sports & Recreation
+Gay Bar,Resturant
+States & Municipalities,Public Service
+Preschool,Education
+Mobility Store,Shopping
+TV Station,Arts & Entertainment
+Memorial Site,Public Service
+Cultural Center,Public Service
+County,Public Service
+Tree,Parks
+Language School,Education
+College & Education,Education
+Plane,Transportation
+Arts & Entertainment,Arts & Entertainment
+Cambodian,Resturant
+Football,Sports & Recreation
+Waste Facility,Public Service
+Swim School,Education,Sports & Recreation
+Town Hall,Public Service
+Communications,Shopping
+Social Club,Arts & Entertainment
+Music Festival,Arts & Entertainment
+Fish Market,Shopping
+Bagels,Resturant
+Train,Transportation
+African,Resturant
+Science Museum,Arts & Entertainment
+Tacos,Resturant
+Modern European,Resturant
+Cheese Shop,Shopping
+Skate Park,Sports & Recreation
+Surf Spot,Sports & Recreation
+Internet Cafe,Sports & Recreation,Arts & Entertainment
+ATM,Financical
+Fried Chicken,Resturant
+Molecular Gastronomy,Resturant
+Gaming Cafe,Arts & Entertainment,Sports & Recreation
+Outdoor Event Space,Sports & Recreation
+Bike TrailSports & Recreation
+Urgent Care Center,Healthcare
+Animal Shelter,Healthcare
+Botanical Garden,Sports & Recreation
+Creperie,Resturant
+Badminton Court,Sports & Recreation
+Mini Golf,Sports & Recreation
+Mosque,Public Service
+Exhibit,Arts & Entertainment
+Power Plant,Public Service
+Observatory,Arts & Entertainment
+Jewish,Resturant
+Southern / Soul,Arts & Entertainment
+Ski Shop,Shopping,Sports & Recreation
+Beer Store,Shopping
+Courthouse,Public Service
+Newsstand,Shopping
+Nursery School,Education
+Summer Camp,Sports & Recreation
+Zoo Exhibit,Arts & Entertainment
+Cantonese,Resturant
+Synagogue,Public Service
+Karaoke,Arts & Entertainment
+Check Cashing Service,Financial
+Knitting Supplies,Shopping
+Basketball Court,Sports & Recreation
+Fish & Chips,Resturant
+Laser Tag,Sports & Recreation
+Tennis,Sports & Recreation
+Entertainment Service,Arts & Entertainment
+Belgian,Resturant
+Outdoor Sculpture,Sports & Recreation
+Prison,Public Service
+Waterfront,Sports & Recreation
+Arepas,Resturant
+Soup,Resturant
+Opera House,Arts & Entertainment
+Chocolate Shop,Shopping
+Pop-Up Shop,Shopping
+Argentinian,Resturant
+Go Kart,Sports & Recreation
+Buffet,Resturant
+Rec Center,Sports & Recreation
+Currency Exchange,Financial
+Nutritionist,Healthcare
+Law School,Education
+Water Park,Sports & Recreation
+Distillery,Association & Organization
+Corporate Amenity,Association & Organization
+Castle,Public Service
+Stationery Store,Shopping
+Piano Bar,Resturant,Arts & Entertainment
+Record Shop,Shopping,Arts & Entertainment
