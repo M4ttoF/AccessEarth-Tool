@@ -14,6 +14,7 @@ def decode(val, csv):
 	#Format Lat,Long,Name,Address,PostalCode,Categories
 	lat=val['location']['lat']
 	lng=val['location']['lng']
+	name=val['name']
 	address=""
 	pCode=""
 	try:
@@ -24,7 +25,7 @@ def decode(val, csv):
 		pCode=val['location']['postalCode']
 	except:
 		pass
-	s = str(lat)+','+str(lng)+','+pCode+','+address+','
+	s = name+','+str(lat)+','+str(lng)+','+pCode+','+address+','
 	if len(val['categories']) > 0:
 		categories=table[val['categories'][0]['shortName']]
 
@@ -32,7 +33,9 @@ def decode(val, csv):
 			s+=i
 			if not i == categories[-1]:
 				s+=' '
-	csv.write(s)
+		csv.write(s)
+		return
+	csv.write(s+'\n')
 
 def main():
 	getVals = open("data_backup.json", 'r',encoding="latin-1")
@@ -45,12 +48,14 @@ def main():
 	tableFile.close()
 
 	dataJson = json.loads(values)
-	csvFile = open("formatted.csv",'a')
+	csvFile = open("formatted.csv",'a',encoding="utf-8")
+	cnt=0
 	for i in dataJson:
+		cnt+=1
 		try:
 			decode(i, csvFile)
 		except:
-			pass
+			print(cnt)
 	csvFile.close()
 
 if __name__ == "__main__":
