@@ -1,5 +1,5 @@
-#Access Earth Scraper
-#Matthew Farias
+# Access Earth Scraper
+# Matthew Farias
 '''
 
 payload={'key1': 'value1', 'key2': 'value2'}
@@ -29,7 +29,7 @@ CITY = "Windsor"
 found ={}
 
 
-#Logs into the app
+# Logs into the app
 def login(driver,action):
 
 	driver.get("https://access.earth/app/")

@@ -1,55 +1,61 @@
-#updated_json_scraper
+# updated_json_scraper
+# Matthew Farias
 
 import urllib
 import requests
 import time
 import io
+import sys
 
 found={}
+bigList=[]
 
+# Access.Earth uses a specific link with a center long/lat and two corner long lats to make a rectangle and stores a json
+# of all buildings found within that rectangle
+# Unfortunately there are limits as to how many buildings can be stored in one link so this program will check the location of every municipality
+# and gather the data of all buildings around them while avoiding duplicates
 def scrapeLocation(city):
 	city = city.split()
-	centerLat = float(city[0])
-	centerLong = float(city[1]) 
+	if len(city[-1])==1:
+		centerLat = float(city[-3])
+		centerLong = float(city[-2])
+	else:
+		centerLat = float(city[-2])
+		centerLong = float(city[-1])	 
 	long1 = centerLong - 0.00547608948
 	long2 = centerLong + 0.00547608948
 	lat1 = centerLat - 0.0026599506
 	lat2 = centerLat + 0.0026599506
 
 	url="https://access.earth/php/factual_data.php?lat="+str(centerLat)+"&lng="+str(centerLong)+"&bounds="+str(long1)+","+str(lat1)+","+str(long2)+","+str(lat2)+"&q=e&user=1"
-	print(url)
 	data=requests.get(url)
 	if len(data.text) < 10:
 		return ""
 	#print(data.json()[0])
-	return checkDup(data.json())
+	checkDup(data.json())
 
+# Checks to see if any duplicates have been found
 def checkDup(arr):
 	out=[]
 	for i in arr:
 		if i['id'] not in found:
-			out.append(i)
+			bigList.append(i)
 			found[i['id']]=True
-	return str(out)
 
-def main():	
-	latX=-90
-	longX=-126.021358
-	fd=open('CanadaCityCoords.txt', 'r')
-	saveData=io.open('data.json', 'a', encoding="utf-8")
+def main(arg1,arg2):	
+	fd=open(arg1, 'r')
+	saveData=io.open(arg2, 'a', encoding="utf-8")
 	i=0
+	startAt=0
 	for line in fd:
 		i+=1
-		if i > 3162:
-			saveData.write(scrapeLocation(line))
-			print("Writing from location", line)
-	#scrapeLocation("43.653226 -79.383184")
-	#scrapeLocation("42.314937 -83.036363")
+		# This is set in place just in case the program crashes so you know
+		# where to restart it. Just change the value of startAt
+		if i > startAt:
+			scrapeLocation(line)
+			print("Writing from line", i)
+	json.dump(bigList,saveData)
 	saveData.close()
 	fd.close()
 if __name__ == "__main__":
-    main()
-
-'''
-	
-'''
+    main(sys.argv[1],sys.argv[2])

@@ -1,61 +1,25 @@
-#json_to_csv_converter
-
+# json_to_csv_converter
+# Matthew Farias
 
 import json
-
-table={}
-
-def addTable(line):
-	seperate = line.split(',')
-	table[seperate[0]]=seperate[1:]
-
-
-def decode(val, csv):
-	#Format Lat,Long,Name,Address,PostalCode,Categories
-	lat=val['location']['lat']
-	lng=val['location']['lng']
-	name=val['name']
-	address=""
-	pCode=""
-	try:
-		address=val['location']['address']
-	except:
-		pass
-	try:
-		pCode=val['location']['postalCode']
-	except:
-		pass
-	s = name+','+str(lat)+','+str(lng)+','+pCode+','+address+','
-	if len(val['categories']) > 0:
-		categories=table[val['categories'][0]['shortName']]
-
-		for i in categories:
-			s+=i
-			if not i == categories[-1]:
-				s+=' '
-		csv.write(s)
-		return
-	csv.write(s+'\n')
+import sys
+import csv
 
 def main():
-	getVals = open("data_backup.json", 'r',encoding="latin-1")
+	getVals = open("cleanData.json", 'r',encoding="latin-1")
 	values = getVals.read()
 	getVals.close()
 
-	tableFile= open("categories",'r')
-	for line in tableFile:
-		addTable(line)
-	tableFile.close()
-
 	dataJson = json.loads(values)
-	csvFile = open("formatted.csv",'a',encoding="utf-8")
-	cnt=0
-	for i in dataJson:
-		cnt+=1
-		try:
-			decode(i, csvFile)
-		except:
-			print(cnt)
+	keys=['name','address','postalCode','lat','lng','is_Accom','is_Arts','is_Asso','is_Edu','is_Finan',
+	'is_Healthcare','is_Parks','is_Public','is_Resturant','is_Shop','is_Sports','is_Trans']
+
+	csvFile = open("canada_buildings.csv", 'w',encoding='utf-8')
+
+	csvWriter = csv.DictWriter(csvFile,fieldnames=keys)
+	csvWriter.writeheader()
+	for val in dataJson:
+		csvWriter.writerow(val)
 	csvFile.close()
 
 if __name__ == "__main__":
