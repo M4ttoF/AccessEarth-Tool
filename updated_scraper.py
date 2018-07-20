@@ -49,11 +49,9 @@ def main(arg1,arg2):
 	startAt=0
 	for line in fd:
 		i+=1
-		# This is set in place just in case the program crashes so you know
-		# where to restart it. Just change the value of startAt
-		if i > startAt:
-			scrapeLocation(line)
-			print("Writing from line", i)
+		scrapeLocation(line)
+		#just to check progress
+		print("Writing from line", i)
 	json.dump(bigList,saveData)
 	saveData.close()
 	fd.close()
